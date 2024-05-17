@@ -9,3 +9,8 @@ my jenkins job
 
 this an video for assignment solution.
 this is an pipeline assignmet.
+
+
+
+
+this is my Git Integration job
